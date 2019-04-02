@@ -37,7 +37,12 @@
     padding: 12px;
     width: 344px;
     max-width: 500px;
-    flex-grow: 1;
+	flex-grow: 1;
+	margin-top: 35px;
+}
+
+#testimonialImage .testimonial-inner {
+    padding: 12px 4px;
 }
 
 .testimonial-inner {
