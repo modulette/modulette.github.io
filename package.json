@@ -3,6 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "http://www.modulette.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/modulette/modulette.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/modulette/modulette.github.io/issues"
+  },
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.5",
